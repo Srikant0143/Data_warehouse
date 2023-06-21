@@ -1,1 +1,14 @@
+Q1. Design a Data Warehouse for IPL Cricket Tournament (Asked in Flipkart Interview for
+Senior Data Engineer role)
+Ans : -
+Step 1 : Business process - BCCI wants us to design a data warehouse to capture all the data elements associated with IPL cricket tournament.
+         Overview of the components and considerations involved in designing the data warehouse:
+        1. Match data: Includes information about matches, such as date, location, teams, players, scores, and match-specific statistics.
+        2. Player data: Contains details about individual players, including their personal information, statistics, performance history, and teams they have played for.
+        3. Team data: Consists of information about teams, including team details, owners, coaches, and historical performance.
 
+Step 2 : Grain - Match by match scores, team performance, player stats
+
+Step 3 : Dimensions - Players, teams, matches, venues, 
+
+Step 4 : Facts - Match details, Points table, Player stats
