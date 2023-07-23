@@ -1,5 +1,4 @@
-Q1. Design a Data Warehouse for IPL Cricket Tournament (Asked in Flipkart Interview for
-Senior Data Engineer role)
+Q1. Design a Data Warehouse for IPL Cricket Tournament (Asked in Flipkart Interview for Senior Data Engineer role)
 Ans : -
 Step 1 : Business process - BCCI wants us to design a data warehouse to capture all the data elements associated with IPL cricket tournament.
          Overview of the components and considerations involved in designing the data warehouse:
@@ -9,6 +8,92 @@ Step 1 : Business process - BCCI wants us to design a data warehouse to capture 
 
 Step 2 : Grain - Match by match scores, team performance, player stats
 
-Step 3 : Dimensions - Players, teams, matches, venues, 
+Step 3 : Dimensions - Players, teams, matches, venues, Date, Location
 
 Step 4 : Facts - Match details, Points table, Player stats
+
+
+
+
+Q2. Design a Data Warehouse for Food delivery app like Swiggy, Zomato (Asked in Grab for Data Engineer role)
+Ans : -
+Step 1 : Business process - 
+        1. Match data: Includes information about matches, such as date, location, teams, players, scores, and match-specific statistics.
+        2. Player data: Contains details about individual players, including their personal information, statistics, performance history, and teams they have played for.
+        3. Team data: Consists of information about teams, including team details, owners, coaches, and historical performance.
+
+Step 2 : Grain - 
+
+Step 3 : Dimensions - 
+
+Step 4 : Facts - 
+
+
+
+
+
+
+
+
+Q3. Design a Data Warehouse for cab ride service like Uber, Lyft (Asked in Google for Data Engineer role)
+Ans : -
+Step 1 : Business process - BCCI wants us to design a data warehouse to capture all the data elements associated with IPL cricket tournament.
+         Overview of the components and considerations involved in designing the data warehouse:
+        1. Match data: Includes information about matches, such as date, location, teams, players, scores, and match-specific statistics.
+        2. Player data: Contains details about individual players, including their personal information, statistics, performance history, and teams they have played for.
+        3. Team data: Consists of information about teams, including team details, owners, coaches, and historical performance.
+
+Step 2 : Grain -
+
+Step 3 : Dimensions - 
+
+Step 4 : Facts - 
+
+
+
+
+
+
+
+
+
+
+
+
+Q4. Design a Data Warehouse for Restaurent table booking app like Dineout (Asked in McKinsey for Consultant Data Engineer role)
+Ans : -
+Step 1 : Business process - BCCI wants us to design a data warehouse to capture all the data elements associated with IPL cricket tournament.
+         Overview of the components and considerations involved in designing the data warehouse:
+        1. Match data: Includes information about matches, such as date, location, teams, players, scores, and match-specific statistics.
+        2. Player data: Contains details about individual players, including their personal information, statistics, performance history, and teams they have played for.
+        3. Team data: Consists of information about teams, including team details, owners, coaches, and historical performance.
+
+Step 2 : Grain - 
+
+Step 3 : Dimensions -
+
+Step 4 : Facts - 
+
+
+
+
+
+
+
+
+
+
+
+Q5. Design a Data Warehouse for Covid Vaccination Application (Asked in Livsapce for Data Engineer role)
+Ans : -
+Step 1 : Business process - BCCI wants us to design a data warehouse to capture all the data elements associated with IPL cricket tournament.
+         Overview of the components and considerations involved in designing the data warehouse:
+        1. Match data: Includes information about matches, such as date, location, teams, players, scores, and match-specific statistics.
+        2. Player data: Contains details about individual players, including their personal information, statistics, performance history, and teams they have played for.
+        3. Team data: Consists of information about teams, including team details, owners, coaches, and historical performance.
+
+Step 2 : Grain - 
+
+Step 3 : Dimensions - 
+
+Step 4 : Facts - 
